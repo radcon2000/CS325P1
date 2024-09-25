@@ -1,6 +1,10 @@
 ## Tutorial
 This tutorial will take you through the steps to communicate with a LLM locally
 
+## Miniconda
+You will need to use miniconda in order to download and format the specific environment required.
+Download miniconda from here (https://docs.anaconda.com/miniconda/miniconda-install/).
+
 ## Ollama
 First you will need to install Ollama, which you can install through this link (https://ollama.com/download).
 After that, launch ollama and download phi3.
