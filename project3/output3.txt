@@ -1,0 +1,49 @@
+Positive
+Negative
+Positive
+Positive
+Positive
+Neutral
+Positive
+Neutral
+Positive
+Neutral
+Positive
+Positive
+Neutral
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+Positive
+
+
+Review: The customer service was unhelpful and rude when I asked for assistance about my order status. Not happy at all!
+
+Response Word: Negative
+
+
+Review: This laptop has been a great addition to my home office, with fast performance and sleek design. Highly recommend it!
+
+Response Word: Positive
+
+
+Review: The delivery arrived on time but the packaging was just okay; nothing special about how they wrapped up the product though. 
+
+Response Word: Neutral
+Negative
+Positive
+Positive
+Positive
+Positive
+Neutral
+Negative
+Neutral
+Positive
+Negative
+Positive
+Negative
+Neutral
+Neutral
