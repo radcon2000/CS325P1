@@ -54,6 +54,7 @@ Once the sentiment is given, it will store that sentiment into a text file calle
 Finally, once all the sentiments are stored the program will create a graph of the different products and the number
 of each type of review and the numbers of each one. Below is a what an example graph might look like. 
 
+![image](https://github.com/user-attachments/assets/0e4758e2-6eab-4d46-8c26-4c70662fbde8)
 
 
 ## Program
